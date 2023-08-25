@@ -3,6 +3,6 @@ import { createApp } from 'vue'
 import './styles/reset.css'
 import App from './App.vue'
 
-console.log(import.meta.env.VITE_BASE_URL)
+// console.log(import.meta.env.VITE_BASE_URL)
 
 createApp(App).mount('#app')
